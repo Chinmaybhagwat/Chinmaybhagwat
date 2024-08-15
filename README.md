@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduate student in Applied Artificial Intelligence at Stevens Institute of Technology, actively seeking Full-time jobs. Passionate about leveraging AI to solve complex real-world problems. Skilled in Python, SQL, Data Analysis, Data Engineering, Natural Language Processing, and Machine Learning. Committed to continuous learning and professional growth in the field.
+Fresh graduate student in Applied Artificial Intelligence from Stevens Institute of Technology, actively seeking full-time jobs. Passionate about leveraging AI to solve complex real-world problems. Skilled in Python, SQL, Data Analysis, Data Engineering, Natural Language Processing, and Machine Learning. Committed to continuous learning and professional growth in the field.
 
 
 ## 🌐 Socials:
